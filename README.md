@@ -27,7 +27,7 @@ environment.
 - matplotlib
 
 ## How to Run
-cryogenic_tank_mars_analysis.py
+python cryogenic_tank_mars_analysis.py
 All 9 figures will be generated and saved automatically.
 
 ## Report
