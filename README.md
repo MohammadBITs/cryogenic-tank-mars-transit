@@ -32,7 +32,7 @@ All 9 figures will be generated and saved automatically.
 
 ## Report
 The full technical report is available in this repository and on Zenodo:
-[DOI link — to be added after Zenodo upload]
+https://doi.org/10.5281/zenodo.19940260
 
 ## Author
 Mohammad Shah
